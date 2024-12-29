@@ -6,8 +6,7 @@ DURATION : 6 WEEKS [NOVEMBER-30 TO JANUARY-15]
 MENTOR : NEELA SANTHOSH KUMAR
 
 OVERVIEW OF PROJECT 
- This is a **Healthcare App web page** designed with **HTML**, **Tailwind CSS**, and **FontAwesome** for styling and layout. It provides various sections for managing health conditions, medications, appointments, and communication with healthcare providers. Below is an overview of its structure and functionality:
-
+ This is a **Healthcare App web page** designed with **HTML**, **Tailwind CSS**, and **FontAwesome** for styling and layout. It provides various sections for managing health conditions, medications, appointments, and communication with healthcare providers. 
 ---
 
   **Structure and Features**
